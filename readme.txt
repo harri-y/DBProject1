@@ -23,7 +23,7 @@ We copy and pasted each query from queries.txt into the sql session to complete 
 
 ---Contribution List---
 Lauren - Created ER Diagram, worked on queries 7, 8, and 9
-Harrison - Put ER Diagram into Lucidchart, made CREATE TABLES and import statements and put them into createtable.sql, worked on queries 1 and 2
+Harrison - Put ER Diagram into Lucidchart, made CREATE TABLES and import statements and put them into createtable.sql, worked on queries 2 and 3
 Jaime - worked on queries 4, 5, and 6
 
 *every group member looked over/tested/made suggestions for/approved each others' queries and changes.
